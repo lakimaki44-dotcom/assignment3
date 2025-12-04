@@ -1,11 +1,12 @@
 someNumber = 10
 
-if someNumber == 0:
+if 10 == 0:
     print("Equal to zero")
-elif someNumber < 0:
+elif 10 < 0:
     print("less than zero")
 else:
     print("greater than zero")
+
 
 
 
